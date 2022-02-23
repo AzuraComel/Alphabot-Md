@@ -18,13 +18,13 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Alphabot-Mdོ" //namabot
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama owner
+global.botname = "Zura - San" //namabot
+global.ownername= "Exzy - Kun" //nama owner
 global.myweb ="https://api-alphabot.herokuapp.com/"
 global.youtube = "https://youtube.com/c/ZeeoneOfc"
 global.github = "https://zeeoneofc.github.io/"
-global.ownernomer = "62887435047326" //nomor owner
-global.ownernomerr = "+62887435047326" // nmr owner
+global.ownernomer = "6282301133993" //nomor owner
+global.ownernomerr = "+6282301133993" // nmr owner
 global.thumbnail = "./image/lol_1.jpg" //foto bot ubah di folder image
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
@@ -40,15 +40,15 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
-    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
+    sukses: '🤗Done, Oke Cok~',
+    admin: 'Lu siapa Cok😕 lu bukan admin Gc Cok !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
+    owner: 'Lu siapa Cok😕 !',
     group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
     private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
 	bot: 'Fitur Khusus Pengguna Nomor Bot',
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-    wait: '⏳ Sedang Di Proses',
+    wait: '⏳ Tunggu Cok',
 	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
 	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
